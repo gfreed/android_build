@@ -44,6 +44,7 @@ fi
 echo "ro.build.characteristics=$TARGET_AAPT_CHARACTERISTICS"
 
 # Omni properties
-echo "ro.omni.device=$OMNI_DEVICE"
+echo "ro.gfreed.device=$GFREED_DEVICE"
+echo "ro.omno.device=$GFREED_DEVICE"
 
 echo "# end build properties"
